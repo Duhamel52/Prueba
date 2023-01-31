@@ -1,2 +1,1 @@
-# Prueba
-Version 1.0
+Esta es una prueba
